@@ -1,8 +1,8 @@
 name: better_aliyun_oss
 description: A Simple Aliyun OSS Upload for Flutter.
 version: 0.0.8
-homepage: https://github.com/WangYng
-repository: https://github.com/WangYng/better_aliyun_oss
+homepage: https://github.com/KimePeanh
+repository: https://github.com/KimePeanh/better_aliyun_oss
 
 environment:
   sdk: ">=2.12.0 <3.0.0"
@@ -31,7 +31,7 @@ flutter:
   plugin:
     platforms:
       android:
-        package: io.github.wangyng.better_aliyun_oss
+        package: io.github.KimePeanh.better_aliyun_oss
         pluginClass: BetterAliyunOssPlugin
       ios:
         pluginClass: BetterAliyunOssPlugin
